@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-Module
-"""
+"""Module"""
 
 import json
 import requests
